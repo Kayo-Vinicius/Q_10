@@ -59,9 +59,13 @@ fieldset{
 	height: 20px;
 }
 button{
+	color: white;
+	cursor: pointer;
 	position: absolute;
+	width: 100px;
+	height: 25px;
 	margin-top: 5px;
-	margin-left: 130px;
+	margin-left: 110px;
 	border-radius: 5px;
 	background-color: red;
 }
